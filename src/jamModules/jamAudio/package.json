@@ -1,0 +1,16 @@
+{
+    "name": "jamaudio",
+    "author": {
+        "name": "cainbryce208",
+        "url": "https://github.com/cainbryce208"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "peerDependencies": {
+
+    }
+}

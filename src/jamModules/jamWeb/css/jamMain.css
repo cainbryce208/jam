@@ -1,0 +1,11 @@
+:root {
+    --jam-font-family: "Urbanist"
+}
+
+body {
+    font-family: var(--jam-font-family);
+}
+
+h1[class="jamHeader"] {
+    text-align:center;
+}

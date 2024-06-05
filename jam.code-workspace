@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Source",
+			"path": "./src"
+		},
+		{
+			"name": "Repo",
+			"path": "./"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.fontFamily": "'Fira Code Regular', 'Consolas', 'Courier New'",
+		"editor.fontLigatures": true,
+		"explorer.compactFolders": false,
+		"editor.minimap.enabled": false,
+		"workbench.tree.enableStickyScroll": false
+	}
+}
