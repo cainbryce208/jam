@@ -2,11 +2,11 @@
 	"folders": [
 		{
 			"name": "Source",
-			"path": "./src"
+			"path": "src"
 		},
 		{
 			"name": "Repo",
-			"path": "./"
+			"path": "."
 		}
 	],
 	"settings": {
